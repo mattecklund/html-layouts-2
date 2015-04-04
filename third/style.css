@@ -35,7 +35,7 @@ a {
 }
 
 a:hover {
-	color: #4A90E2;
+	color: #D8D8D8;
 }
 
 main {
@@ -47,10 +47,6 @@ main {
 	flex-wrap: wrap;
 	padding: 20px;
 	align-content: flex-start;
-}
-
-.content-format {
-	
 }
 
 .box {
